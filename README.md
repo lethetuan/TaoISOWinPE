@@ -36,6 +36,9 @@ Trước khi bắt đầu, hãy chuẩn bị:
 Mở trình duyệt web của bạn và truy cập vào địa chỉ chính thức của dự án PhoenixPE:
 👉 **[https://github.com/PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE)**
 
+Trường hợp nếu dự án bị khóa hoặc tạm bảo trì các bạn có thể truy cập dự án mình đã clone
+👉 **[https://github.com/lethetuan/PhoenixPE](https://github.com/lethetuan/PhoenixPE)**
+
 ![Truy cập GitHub PhoenixPE](1.png)
 
 ---
